@@ -17,4 +17,4 @@ Search strategy is **random* AND sepsis AND fluid AND responsiveness** (publicat
 
 Receive notifications about PubMed citations when added to this review
 -------------------------
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=OpenmetaanalysisPubmedFluidResponsiveness&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/OpenmetaanalysisPubmedFluidResponsiveness)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=OpenmetaanalysisFluidResponsiveness&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/OpenmetaanalysisFluidResponsiveness)
