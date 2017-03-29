@@ -8,7 +8,7 @@ The assessment of efficacy was limited by two trials of bioreactance (725 patien
 
 Method	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
-Bioreactance	               | 80 | 79 | 0.881 | 79 | 80
+Bioreactance	             | 80 | 79 | 0.881 | 79 | 80
 Proportional pulse pressure  | 62 | 85 | 0.817 | 81 | 40
 Shock index	                 | 81 | 54 | 0.791 | 64 | 26
 Central venous pressure (static)*    |   |   | 0.56  |   |  
@@ -35,10 +35,12 @@ This review does not include a GRADE Profile or Summary of Findings Table.
 ![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 
+The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
 
 
-![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/metaregression/metaregression/Outcome-Primary.png "Principle results for benefit]")
+The meta-regression for the primary outcomes are below. Additional [meta-regressions](../master/files/metaregression) of secondary analyses may be available. 
+![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
