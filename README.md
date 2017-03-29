@@ -1,4 +1,4 @@
-# Fluid-responsiveness assessment for managing septic shock
+# Septic shock - Fluid-responsiveness assessment
 
 A living systematic review
 
@@ -18,25 +18,30 @@ Central venous pressure (static)*    |   |   | 0.56  |   |
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
-This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
+This review does not include a GRADE Profile or Summary of Findings Table.
 
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+[Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
+
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+* [Evidence search](../master/files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
-* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Reconcliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables)
+* [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
+* [Risk of bias assessment](../master/files/study-details/risk-of-bias.md) (under construction)
+* [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessment-for-managing-septic-shock/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
-
-
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessment-for-managing-septic-shock/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment
+/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 
-![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessment-for-managing-septic-shock/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment
+/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
+
+
+![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment
+/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
@@ -69,7 +74,7 @@ E, Wolff M, Régnier B, Boulain T. Central venous pressure measurements improve 
 4. Hou PC, Filbin MR, Napoli A, Feldman J, Pang PS, Sankoff J, Lo BM, Dickey-White H, Birkhahn RH, Shapiro NI. Cardiac Output Monitoring Managing Intravenous Therapy (COMMIT) to Treat Emergency Department Patients with Sepsis. Shock. 2016 Aug;46(2):132-8. doi: [10.1097/SHK.0000000000000564](http://dx.doi.org/10.1097/SHK.0000000000000564). PMID: [26925867](http://pubmed.gov/26925867). <i>Per registration at ClinicalTrials.gov ([NCT01484106](https://clinicaltrials.gov/ct2/show/NCT01484106), planned enrollment 600 for outcome of SOFA score increases by ≥1 point,  but protocol at ClinicalTrials.gov revised in 2016 revised to 65 patients.</i>
 
 #### New study(s) *excluded* 
-None
+1. Rameau A, de With E, Boerma EC. Passive leg raise testing effectively reduces fluid administration in septic shock after correction of non-compliance to test results. Ann Intensive Care. 2017 Dec;7(1):2. doi: 10.1186/s13613-016-0225-6. PMID: [28050895](http://pubmed.gov/28050895)*Did not report clinical outcomes*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
