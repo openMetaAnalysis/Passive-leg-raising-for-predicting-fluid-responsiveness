@@ -32,16 +32,13 @@ This review does not include a GRADE Profile or Summary of Findings Table.
 * [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/master/files/Septic-shock---Fluid-responsiveness-assessment
-/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/master/files/Septic-shock---Fluid-responsiveness-assessment
-master/files/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
 
 
-![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment
-master/files/metaregression/metaregression/Outcome-Primary.png "Principle results for benefit]")
+![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/metaregression/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
