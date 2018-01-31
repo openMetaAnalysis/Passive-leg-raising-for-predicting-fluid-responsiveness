@@ -32,7 +32,7 @@ This review does not include a GRADE Profile or Summary of Findings Table.
 * [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
