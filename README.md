@@ -34,10 +34,8 @@ This review does not include a GRADE Profile or Summary of Findings Table.
 
 ![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
-
 The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
-
 
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](../master/files/metaregression) of secondary analyses may be available. 
 ![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Septic-shock---Fluid-responsiveness-assessment/master/files/metaregression/Outcome-Primary.png "Principle results for benefit]")
@@ -66,7 +64,8 @@ References:
 3. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370(18):1683-93. PMID: [24635773](http://pubmed.gov/24635773).
 
 #### New study(s) undergoing review
-1. Lanspa MJ, Burk RE, Wilson EL, Hirshberg EL, Grissom CK, Brown SM. Echocardiogram-guided resuscitation versus early goal-directed therapy in the treatment of septic shock: a randomized, controlled, feasibility trial. J Intensive Care. 2018 Aug 13;6:50. doi: [10.1186/s40560-018-0319-3](http://doi.org/10.1186/s40560-018-0319-3). PMID: [30123511](http://pubmed.gov/30123511; PMCID: PMC6090604.
+1. Li G, Wei F, Zhang G, Sun L, Lian R. [Clinical value of early liquid resuscitation guided by passive leg-raising test combined with transthoracic echocardiography in patients with septic shock]. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2019 Apr;31(4):413-417. doi: 10.3760/cma.j.issn.2095-4352.2019.04.008. Chinese. PMID: [31109412](http://pubmed.gov/31109412).
+1. Lanspa MJ, Burk RE, Wilson EL, Hirshberg EL, Grissom CK, Brown SM. Echocardiogram-guided resuscitation versus early goal-directed therapy in the treatment of septic shock: a randomized, controlled, feasibility trial. J Intensive Care. 2018 Aug 13;6:50. doi: [10.1186/s40560-018-0319-3](http://doi.org/10.1186/s40560-018-0319-3). PMID: [30123511](http://pubmed.gov/30123511); PMCID: PMC6090604.
 1. Renner J, Gruenewald M, Hill M, Mangelsdorff L, Aselmann H, Ilies C, Steinfath M, Broch O. Non-invasive assessment of fluid responsiveness using CNAP™ technology is interchangeable with invasive arterial measurements during major open abdominal surgery. Br J Anaesth. 2017 PMID: [28039242](http://pubmed.gov/28039242).
 1. Krige A, Bland M, Fanshawe T. Fluid responsiveness prediction using Vigileo FloTrac measured cardiac output changes during passive leg raise test. J Intensive Care. 2016 6. PMID: [27721980](http://pubmed.gov/27721980)
 1. Cronhjort M, Bergman M, Joelsson-Alm E, et al. Fluid responsiveness assessment using passive leg raising test to reduce fluid administration and weight gain in patients with septic shock.J Anesth Perioper Med 2017 DOI: [10.24015/JAPM.2017.0049](http://dx.doi.org/10.24015/JAPM.2017.0049)
