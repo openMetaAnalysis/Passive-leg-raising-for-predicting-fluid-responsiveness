@@ -64,6 +64,7 @@ References:
 3. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370(18):1683-93. PMID: [24635773](http://pubmed.gov/24635773).
 
 #### New study(s) undergoing review
+1. Whether a Minimal Volume Could Predict Fluid Responsiveness Using Thermodilution by PAC in Septic Shock Patients. https://clinicaltrials.gov/ct2/show/NCT04515511?
 1. Seccombe A, McCluskey L, Moorey H, Lasserson D, Sapey E. Assessing Fluid Resuscitation in Adults with Sepsis Who Are Not Mechanically Ventilated: a Systematic Review of Diagnostic Test Accuracy Studies. J Gen Intern Med. 2019 May 31. PMID: [31152360](http://pubmed.gov/31152360).
 1. Li G, Wei F, Zhang G, Sun L, Lian R. [Clinical value of early liquid resuscitation guided by passive leg-raising test combined with transthoracic echocardiography in patients with septic shock]. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2019 Apr;31(4):413-417. doi: 10.3760/cma.j.issn.2095-4352.2019.04.008. Chinese. PMID: [31109412](http://pubmed.gov/31109412).
 1. Lanspa MJ, Burk RE, Wilson EL, Hirshberg EL, Grissom CK, Brown SM. Echocardiogram-guided resuscitation versus early goal-directed therapy in the treatment of septic shock: a randomized, controlled, feasibility trial. J Intensive Care. 2018 Aug 13;6:50. doi: [10.1186/s40560-018-0319-3](http://doi.org/10.1186/s40560-018-0319-3). PMID: [30123511](http://pubmed.gov/30123511); PMCID: PMC6090604.
