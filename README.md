@@ -16,17 +16,13 @@ Shock index	                 | 81 | 54 | 0.791 | 64 | 26
 Central venous pressure (static)*    |   |   | 0.56  |   |  
 \* PMID: [20111858,23774337](http://pubmed.gov/20111858,23774337)
 
-[Keep current with this topic](Keep-up.md)
+<!-- [Keep current with this topic](Keep-up.md) -->
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
-
-This review does not include a GRADE Profile or Summary of Findings Table.
-
-[Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
-
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
 * [Evidence search](../master/files/searching/evidence-search.md) for this review
+
+This review does not include a GRADE Profile or Summary of Findings Table.
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
