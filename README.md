@@ -1,6 +1,8 @@
-# Septic shock - Fluid-responsiveness assessment
+# Severe sepsis and septic shock - Fluid-responsiveness assessment
 
 A living systematic review
+
+Short url: http://openmetaanalysis.github.io/Septic-shock-treatment-guided-by-assessment-of-fluid-responsiveness
 
 **Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Assessment of fluid responsiveness to guide the treatment of septic shock *is not* proven to reduce mortality. Benefit from assessment of fluid responsiveness to guide the treatment of septic shock is "reasonable suspicion", but a “preponderance of the evidence” is not present according to the judicial analogies of Diamond (PMID [17679700](http://pubmed.gov/17679700)). Patients at risk of fluid overload (Kuan, PMID [26475246](http://pubmed.gov/26475246)) or in settings with high mortality (Richards, PMID:[25572383](http://pubmed.gov/25572383)) may benefit from systematic monitoring. The assessment of diagnostic accuracy was limited by studies’ inclusion of patients who were being monitored for reasons other than sepsis. 
 
