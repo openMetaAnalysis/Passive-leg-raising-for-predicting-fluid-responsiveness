@@ -62,6 +62,7 @@ References:
 3. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370(18):1683-93. PMID: [24635773](http://pubmed.gov/24635773).
 
 #### New study(s) undergoing review
+1. Li L, Ai Y, Wang X, Zhang H, Ma X, Huang L, Ai M, Peng Q, Zhang L. Effect of focused cardiopulmonary ultrasonography on clinical outcome of septic shock: a randomized study. J Int Med Res. 2021 May;49(5):3000605211013176. doi: 10.1177/03000605211013176. PMID: [33990145](http://pubmed.gov/33990145).
 1. Douglas IS, Alapat PM, Corl KA, Exline MC, Forni LG, Holder AL, Kaufman DA, Khan A, Levy MM, Martin GS, Sahatjian JA, Seeley E, Self WH, Weingarten JA, Williams M, Hansell DM. Fluid Response Evaluation in Sepsis Hypotension and Shock: A Randomized Clinical Trial. Chest. 2020 Oct;158(4):1431-1445. doi: 10.1016/j.chest.2020.04.025. Epub 2020 Apr 27. PMID: [32353418](http://pubmed.gov/32353418).
 1. Whether a Minimal Volume Could Predict Fluid Responsiveness Using Thermodilution by PAC in Septic Shock Patients. https://clinicaltrials.gov/ct2/show/NCT04515511?
 1. Seccombe A, McCluskey L, Moorey H, Lasserson D, Sapey E. Assessing Fluid Resuscitation in Adults with Sepsis Who Are Not Mechanically Ventilated: a Systematic Review of Diagnostic Test Accuracy Studies. J Gen Intern Med. 2019 May 31. PMID: [31152360](http://pubmed.gov/31152360).
